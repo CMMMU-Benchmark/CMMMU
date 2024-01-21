@@ -52,11 +52,10 @@ if __name__ == '__main__':
     for category in category_list:
         data_path = f'{args.data_dir}/{category}/{category}.jsonl'
         output_path = f'{args.output_dir}/{category}.jsonl'
-        print(data_path,output_path)
         results_count = process_jsonl_file(data_path, output_path, category)
         correct_sum += results_count['correct_num']
         entries_sum += results_count['entries_num']
         table.append([category, results_count['correct_num'], results_count['entries_num'], results_count['correct_num']/results_count['entries_num']])
-        # break
+
     table.append(['all', correct_sum, entries_sum, correct_sum/entries_sum])
     print(tabulate(table, headers=headers, tablefmt='orgtbl'))
