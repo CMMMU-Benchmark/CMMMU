@@ -51,7 +51,7 @@ Should you encounter any data samples potentially breaching the copyright or lic
 ```bibtex
 @article{zhang2024cmmmu,
         title={CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark},
-        author={Ge, Zhang and Xinrun, Du and Bei, Chen and Yiming, Liang and Tongxu, Luo and Tianyu, Zheng and Kang, Zhu and Yuyang, Cheng and Chunpu, Xu and Shuyue, Guo and Haoran, Zhang and Xingwei, Qu and Junjie, Wang and Ruibin, Yuan and Yizhi, Li and Zekun, Wang and Yudong, Liu and Yu-Hsuan, Tsai and Fengji, Zhang and Chenghua, Lin and Wenhao, Huang and Xiang, Yue and Wenhu, Chen and Jie, Fu},
+        author={Ge, Zhang and Xinrun, Du and Bei, Chen and Yiming, Liang and Tongxu, Luo and Tianyu, Zheng and Kang, Zhu and Yuyang, Cheng and Chunpu, Xu and Shuyue, Guo and Haoran, Zhang and Xingwei, Qu and Junjie, Wang and Ruibin, Yuan and Yizhi, Li and Zekun, Wang and Yudong, Liu and Yu-Hsuan, Tsai and Fengji, Zhang and Chenghua, Lin and Wenhao, Huang and Wenhu, Chen and Jie, Fu},
         journal={arXiv preprint arXiv:2401.20847},
         year={2024},
       }
