@@ -43,6 +43,7 @@ Should you encounter any data samples potentially breaching the copyright or lic
 - Xinrun Du: duxinrun@01.ai
 - Bei Chen: chenbei@01.ai
 - Wenhu Chen: wenhuchen@uwaterloo.ca
+- Jie Fu: jiefu@ust.hk
 
 ## Citation
 
