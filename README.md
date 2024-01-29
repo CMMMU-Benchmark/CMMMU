@@ -20,9 +20,9 @@ Please refer to our [eval](eval)
 | Qwen-VL-PLUS*                  |   39.5    |     36.8     |
 | Yi-VL-34B                      |   36.2    |     36.5     |
 | Yi-VL-6B                       |   35.8    |     35.0     |
-| InternVL-Chat-V1.1             |   34.7    |     34.0     |
+| InternVL-Chat-V1.1*            |   34.7    |     34.0     |
 | Qwen-VL-7B-Chat                |   30.7    |     31.3     |
-| SPHINX-MoE                     |   29.3    |     29.5     |
+| SPHINX-MoE*                    |   29.3    |     29.5     |
 | InternVL-Chat-ViT-6B-Vicuna-7B |   26.4    |     26.7     |
 | InternVL-Chat-ViT-6B-Vicuna-13B|   27.4    |     26.1     |
 | CogAgent-Chat                  |   24.6    |     23.6     |
