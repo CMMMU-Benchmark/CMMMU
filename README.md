@@ -1,8 +1,8 @@
 # CMMMU
 
-[**🌐 Homepage**](https://cmmmu-benchmark.github.io/) | [**🤗 Paper**](https://huggingface.co/papers/2401.20847) | [**📖 arXiv**](https://arxiv.org/pdf/2401.20847.pdf) | [**🤗 Dataset**](https://huggingface.co/datasets/m-a-p/CMMMU) | [**GitHub**](https://github.com/CMMMU-Benchmark/CMMMU)
+[**🌐 Homepage**](https://cmmmu-benchmark.github.io/) | [**🤗 Paper**](https://huggingface.co/papers/2401.20847) | [**📖 arXiv**](https://arxiv.org/abs/2401.11944) | [**🤗 Dataset**](https://huggingface.co/datasets/m-a-p/CMMMU) | [**GitHub**](https://github.com/CMMMU-Benchmark/CMMMU)
 
-This repo contains the evaluation code for the paper "[CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark](https://zenodo.org/records/10546498)"
+This repo contains the evaluation code for the paper "[CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark](https://arxiv.org/abs/2401.11944)"
 
 ## Introduction
 CMMMU includes 12k manually collected multimodal questions from college exams, quizzes, and textbooks, covering six core disciplines: Art & Design, Business, Science, Health & Medicine, Humanities & Social Science, and Tech \& Engineering, like its companion, MMMU. These questions span 30 subjects and comprise 39 highly heterogeneous image types, such as charts, diagrams, maps, tables, music sheets, and chemical structures.
@@ -42,7 +42,7 @@ Should you encounter any data samples potentially breaching the copyright or lic
 ## Contact
 - Ge Zhang: zhangge@01.ai
 - Wenhao Huang: huangwenhao@01.ai
-- Xinrun Du: duxinrun@01.ai
+- Xinrun Du: duxinrun@intern.01.ai
 - Bei Chen: chenbei@01.ai
 - Wenhu Chen: wenhuchen@uwaterloo.ca
 - Jie Fu: jiefu@ust.hk
