@@ -1,8 +1,16 @@
 # CMMMU
 
-[**🌐 Homepage**](https://cmmmu-benchmark.github.io/) | [**🤗 Paper**](https://huggingface.co/papers/2401.11944) | [**📖 arXiv**](https://arxiv.org/abs/2401.11944) | [**🤗 Dataset**](https://huggingface.co/datasets/m-a-p/CMMMU) | [**GitHub**](https://github.com/CMMMU-Benchmark/CMMMU)
+[**🌐 Homepage**](https://cmmmu-benchmark.github.io/) | [**🤗 Paper**](https://huggingface.co/papers/2401.11944) | [**📖 arXiv**](https://arxiv.org/abs/2401.11944) | [**🤗 Dataset**](https://huggingface.co/datasets/m-a-p/CMMMU) | [**🏆 EvalAI**](https://eval.ai/web/challenges/challenge-page/2217/overview) | [**GitHub**](https://github.com/CMMMU-Benchmark/CMMMU)
 
 This repo contains the evaluation code for the paper "[CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark](https://arxiv.org/abs/2401.11944)"
+
+## News
+
+**🔥[2024-04-26]: Thanks to the support of VLMEvalKit team, now everyone can use [VLMEvalKit](https://github.com/open-compass/vlmevalkit) to easily conduct evaluations!**
+
+**🔥[2024-03-14]: Thanks to the support of lmms-eval team, now everyone can use [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) to easily conduct evaluations!**
+
+**🌟[2024-03-06]: Our evaluation server for the test set is now available on [EvalAI](https://eval.ai/web/challenges/challenge-page/2217/overview). We welcome all submissions and look forward to your participation! 😆**
 
 ## Introduction
 CMMMU includes 12k manually collected multimodal questions from college exams, quizzes, and textbooks, covering six core disciplines: Art & Design, Business, Science, Health & Medicine, Humanities & Social Science, and Tech \& Engineering, like its companion, MMMU. These questions span 30 subjects and comprise 39 highly heterogeneous image types, such as charts, diagrams, maps, tables, music sheets, and chemical structures.
